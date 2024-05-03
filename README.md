@@ -3,7 +3,7 @@ Project Ideas References From `Laravel Daily` or Visit [This Link](https://larav
 
 ## Library Management System
 - Ideas: librarian would be able to manage books, visitors would book various books, also there would be stock management, notifications to return books, etc.
-- Repository: 
+- Repository: [Link Here](https://github.com/simpson-getting-crazy/library-management-system)
 
 ## Gym Management System
 - Ideas: memberships (with or without payments), book facilities, enroll in group exercises, connect with trainers, and send reminders.
