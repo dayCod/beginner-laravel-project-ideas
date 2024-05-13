@@ -1,6 +1,6 @@
 # Laravel Project Ideas
 
-## Multi Timezone
+## User Timezone
 - Ideas: every user able to see the data with their own timezone.
 - Repository: 
 
